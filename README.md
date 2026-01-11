@@ -1,6 +1,8 @@
 # customer-health-system
 # Customer Churn Prediction Web App
-
+🔗 Links 
+  Live:  
+  https://customer-churn-prediction-web-app-05.streamlit.app/
 ##  Overview
 This project predicts whether a customer is likely to churn (cancel service) using structured customer data. It combines feature preprocessing, machine learning modeling, and deployment into a production-style web app that business stakeholders can use without coding.
 
@@ -47,8 +49,7 @@ Run Locally
 bash
 Copy code
 streamlit run streamlit_app.py
-🔗 Links
-Live: https://customer-churn-prediction-web-app-05.streamlit.app/
+
 
 
 🛠 Tech Stack
